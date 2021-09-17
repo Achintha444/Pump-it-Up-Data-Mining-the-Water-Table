@@ -28,27 +28,18 @@ This is my attempt in participating in Pump it Up: Data Mining the Water Table c
 * Find out correlation of features with the label using the correlation matrix
 
 ## Pre processing methods used
-* View the data trypes of each features in the dataset
-* Find out features which inculded null values
-* Find out value count of features
-* Find out correlation of features with the label using the correlation matrix
+* Label encoding
+* Other categorical encodings
+* Handling missing values
 
 ## Feature engineering approaches used
-* View the data trypes of each features in the dataset
-* Find out features which inculded null values
-* Find out value count of features
-* Find out correlation of features with the label using the correlation matrix
+* Creating of new features by mathematical transformation
+* Target Encoding
+* Other
 
 ## Post-Processing approaches used
-* View the data trypes of each features in the dataset
-* Find out features which inculded null values
-* Find out value count of features
-* Find out correlation of features with the label using the correlation matrix
+* Feature Importance
 
 ## Features
-* View the data trypes of each features in the dataset
-* Find out features which inculded null values
-* Find out value count of features
-* Find out correlation of features with the label using the correlation matrix
-
+*'id','longitudeGroup','latitudeGroup','region_code','district_code','public_meeting_feature','subvillage_feature','extraction_type_feature','extraction_type_group_feature','extraction_type_class_feature','lga_feature','ward_feature','region_feature','water_quality_feature','quality_group_feature','quantity_feature','quantity_group_feature','source_type_feature','source_feature','source_class_feature','waterpoint_type_feature','waterpoint_type_group_feature','date_recorded_year','date_recorded_date'
 
