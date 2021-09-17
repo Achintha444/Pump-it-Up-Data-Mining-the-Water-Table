@@ -12,6 +12,7 @@ This is my attempt in participating in Pump it Up: Data Mining the Water Table c
 
 ## Models Tried Out
 * XG Boost Classifier
+* Light GBM Classifier
 * Naive Bayes Classifier
 * Cat Boost Classifier
 * Random Forest Classifier
