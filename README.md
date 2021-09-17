@@ -34,8 +34,9 @@ This is my attempt in participating in Pump it Up: Data Mining the Water Table c
 
 ## Feature engineering approaches used
 * Creating of new features by mathematical transformation
-* Target Encoding
-* Other
+* Counts
+* Building-Up and Breaking-Down Features
+* Group Transforms
 
 ## Post-Processing approaches used
 * Feature Importance
